@@ -1,6 +1,6 @@
 {
   "name": "wy_jscolor",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
   },
   "author": "cccchris",
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+  }
 }
